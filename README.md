@@ -3,7 +3,7 @@
 Sentiment analysis was done on the The Stanford Sentiment Treebank (SST-5) dataset.
 
 It was done using 4 classifiers, namely:
-+ Multinomial Logsitic Regression
++ Multinomial Logistic Regression
 + Multinomial Naives Bayes
 + Decision Tree
 + Support Vector Machine
